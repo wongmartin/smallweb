@@ -1,4 +1,3 @@
-
 http://0x80.pl/feed.xml
 http://16bit.com/rss.xml
 http://459pm.com/feed
@@ -479,6 +478,7 @@ http://mporcius.blogspot.com/atom.xml
 http://mrscspalding.blogspot.com/feeds/posts/default
 http://msinilo.pl/blog2/index.xml
 http://muratbuffalo.blogspot.com/atom.xml
+http://mutta.observer/sitemap.xml
 http://mycode.doesnot.run/rss
 http://neosmart.net/blog/rss
 http://nerdlypleasures.blogspot.com/atom.xml
